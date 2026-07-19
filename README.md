@@ -9,10 +9,9 @@ and Machine Learning.
 Quick reference for DataFrames, Series, indexing, groupby, merging, and more.
 
 -  [Download PDF](./pandas/pandas-cheatsheet.pdf)
--  [View Image](./pandas/pandas-cheatsheet.jpg)
 - **[View & read online → pythoncodelab.com](https://pythoncodelab.com/pandas-cheatsheet/)**
 
-![Pandas Cheatsheet](./pandas/pandas-cheatsheet.jpg)
+
 
 ---
 
